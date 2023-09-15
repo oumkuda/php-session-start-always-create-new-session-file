@@ -1,0 +1,1 @@
+# php-session-start-always-create-new-session-file
